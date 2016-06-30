@@ -1,0 +1,7 @@
+base   authotphp
+author Morgan Messager
+email  messager.morgan.83@gmail.com
+date   2016-06-30
+name   Plain Auth Plugin with Otphp (totp)
+desc   Provides user authentication against DokuWiki's local password storage combined with the two factor identification
+url    https://github.com/MessagerMorgan/DokuWiki_Otphp
